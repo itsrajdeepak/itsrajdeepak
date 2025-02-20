@@ -5,11 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=itsrajdeepak&label=Profile%20views&color=0e75b6&style=flat" alt="itsrajdeepak" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=itsrajdeepak" alt="itsrajdeepak" />
-  </a> 
-</p>
 
 ## 🚀 About Me  
 - 🌱 I’m currently learning **MERN stack development**  
