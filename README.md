@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **MERN stack development**  
 - 💬 Ask me about **React, JavaScript, Frontend Development, DSA**  
 - 📫 Reach me at **4udepak@gmail.com**  
-- ⚡ Fun fact: **"Think twice, code once."**  
+- ⚡ **"Think twice, code once."**  
 
 ---
 
